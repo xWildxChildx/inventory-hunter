@@ -1,0 +1,5 @@
+---
+refresh_interval: 60 # seconds
+urls:
+  - https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942
+...
