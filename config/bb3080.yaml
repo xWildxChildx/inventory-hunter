@@ -1,5 +1,5 @@
 ---
-refresh_interval: 10 # seconds
+refresh_interval: 9.0 # seconds
 urls:
   - https://www.bestbuy.com/site/nvidia-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429440.p?skuId=6429440
   - https://www.bestbuy.com/site/gigabyte-geforce-rtx-3080-gaming-oc-10g-gddr6x-pci-express-4-0-graphics-card-black/6430620.p?skuId=6430620
