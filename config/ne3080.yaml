@@ -1,5 +1,5 @@
 ---
-refresh_interval: 6 # seconds
+refresh_interval: 3 # seconds
 urls:
  - https://www.newegg.com/zotac-geforce-rtx-3080-zt-t30800j-10p/p/N82E16814500504
  - https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453
