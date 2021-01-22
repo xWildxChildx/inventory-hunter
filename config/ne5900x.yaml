@@ -1,4 +1,5 @@
 ---
+max_price: 551
 refresh_interval: 6 # seconds
 urls:
   - https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664
